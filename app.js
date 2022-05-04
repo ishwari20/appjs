@@ -7,14 +7,14 @@ import {
 // import { getFirestore, collection, getDocs, getDoc } from "firebase/firestore";
 
 const firebaseApp = initializeApp({
-  apiKey: "AIzaSyCqv4hOl5nCZlZJ483DYbVdqT9AUwsIQN8",
-  authDomain: "msp-firebase-2ec13.firebaseapp.com",
-  databaseURL: "https://msp-firebase-2ec13-default-rtdb.firebaseio.com",
-  projectId: "msp-firebase-2ec13",
-  storageBucket: "msp-firebase-2ec13.appspot.com",
-  messagingSenderId: "785216846570",
-  appId: "1:785216846570:web:d31aff8380ac4abe163593",
-  measurementId: "G-VWKDT32C1D",
+  apiKey: "AIzaSyC9D8BJXZnauALhmz7dlIwesMF3BMCo_g0",
+  authDomain: "trial-fc9c2.firebaseapp.com",
+  databaseURL: "https://trial-fc9c2-default-rtdb.firebaseio.com",
+  projectId: "trial-fc9c2",
+  storageBucket: "trial-fc9c2.appspot.com",
+  messagingSenderId: "274661535098",
+  appId: "1:274661535098:web:18d0140399c4abf0af7ac3",
+  measurementId: "G-CZ4RRBC3W8",
 });
 
 const auth = getAuth(firebaseApp);
